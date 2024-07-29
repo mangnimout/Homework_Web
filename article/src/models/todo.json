@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "created_by": 1,
+    "title": "Task 1",
+    "is_completed": false
+  },
+  {
+    "id": 2,
+    "created_by": 1,
+    "title": "Task 2",
+    "is_completed": false
+  },
+  {
+    "id": 3,
+    "created_by": 1,
+    "title": "Task 3",
+    "is_completed": false
+  },
+  {
+    "id": 4,
+    "created_by": 2,
+    "title": "Task 4",
+    "is_completed": true
+  }
+]
